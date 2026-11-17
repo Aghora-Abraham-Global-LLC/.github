@@ -5,13 +5,13 @@
 [![Proprietary](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://bhutadamarasena.com/)
 [![Infrastructure](https://img.shields.io/badge/Infrastructure-Cloudflare%20Edge-orange?style=for-the-badge&logo=cloudflare)](https://bhutadamarasena.com/)
 [![Website](https://img.shields.io/badge/Website-bhutadamarasena.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhutadamarasena.com/)
-[![Contact](https://img.shields.io/badge/Contact-dev%40bhutadamarasena.com-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dev@bhutadamarasena.com)
+[![Contact](https://img.shields.io/badge/Contact-support%40bhutadamarasena.com-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:support@bhutadamarasena.com)
 
 ---
 
 ## 🏛️ Corporate & Engineering Overview
 
-**Aghora-Abraham Global LLC** designs and operates closed-source computational engines, commercial REST APIs, and edge-native SaaS applications. Our engineering portfolio spans theoretical gravitational physics, high-precision orbital mechanics, distributed real-time edge synchronization via Cloudflare Workers and Durable Objects, and context-aware machine intelligence.
+**Aghora-Abraham Global LLC** designs and operates BhutaDamaraSena R&D Labs. R&D Labs currently runs closed-source computational engines, commercial REST APIs, and edge-native SaaS applications. Our engineering portfolio spans theoretical gravitational physics, high-precision orbital mechanics, distributed real-time edge synchronization via Cloudflare Workers and Durable Objects, and context-aware machine intelligence.
 
 All software platforms under this organization are privately maintained, cloud-synchronized, and distributed via paywalled enterprise models.
 
@@ -65,7 +65,7 @@ An AI-driven contextual translation infrastructure and automated caption track p
 
 * **Intellectual Property:** All source code, architectures, algorithms, and microservices under `Aghora-Abraham Global LLC` are private, proprietary, and protected under international intellectual property law.
 * **Internal Repositories:** All code repositories are kept strictly **Private**. Internal deployments and edge synchronization are managed automatically via GitHub Actions and Cloudflare integration.
-* **Commercial Access & Inquiries:** To request API keys, enterprise platform access, or commercial licensing terms, visit [bhutadamarasena.com](https://bhutadamarasena.com/) or email [`dev@bhutadamarasena.com`](mailto:dev@bhutadamarasena.com).
+* **Commercial Access & Inquiries:** To request API keys, enterprise platform access, or commercial licensing terms, visit [bhutadamarasena.com](https://bhutadamarasena.com/) or email [`support@bhutadamarasena.com`](mailto:support@bhutadamarasena.com).
 
 ---
 
