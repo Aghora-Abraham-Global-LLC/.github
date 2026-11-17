@@ -5,7 +5,7 @@
 [![Proprietary](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://bhutadamarasena.com/)
 [![Infrastructure](https://img.shields.io/badge/Infrastructure-Cloudflare%20Edge-orange?style=for-the-badge&logo=cloudflare)](https://bhutadamarasena.com/)
 [![Website](https://img.shields.io/badge/Website-bhutadamarasena.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhutadamarasena.com/)
-[![Contact](https://img.shields.io/badge/Contact-dev%40bhutadamarasena.com-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:support@bhutadamarasena.com)
+[![Contact](https://img.shields.io/badge/Contact-support%40bhutadamarasena.com-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:support@bhutadamarasena.com)
 
 ---
 
