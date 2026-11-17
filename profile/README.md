@@ -11,7 +11,7 @@
 
 ## 🏛️ Corporate & Engineering Overview
 
-**Aghora-Abraham Global LLC** designs and operates closed-source computational engines, commercial REST APIs, and edge-native SaaS applications. Our engineering portfolio spans theoretical gravitational physics, high-precision orbital mechanics, distributed real-time edge synchronization via Cloudflare Workers and Durable Objects, and context-aware machine intelligence.
+**Aghora-Abraham Global LLC** designs and operates BhutaDamaraSena R&D Labs. R&D Labs currently runs the closed-source computational engines, commercial REST APIs, and edge-native SaaS applications. Our engineering portfolio spans theoretical gravitational physics, high-precision orbital mechanics, distributed real-time edge synchronization via Cloudflare Workers and Durable Objects, and context-aware machine intelligence.
 
 All software platforms under this organization are privately maintained, cloud-synchronized, and distributed via paywalled enterprise models.
 
